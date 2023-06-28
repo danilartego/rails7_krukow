@@ -1,13 +1,13 @@
 {
   "name": "app",
-  "private": "true",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
+    "@rails/ujs": "^7.0.4-3",
     "autoprefixer": "^10.4.14",
     "bootstrap": "^5.3.0",
     "bootstrap-icons": "^1.10.5",
-    "esbuild": "^0.18.10",
-    "nodemon": "^2.0.22",
+    "esbuild": "0.15.18",
+    "nodemon": "^1.14.9",
     "postcss": "^8.4.24",
     "postcss-cli": "^10.1.0",
     "sass": "^1.63.6"
@@ -21,5 +21,6 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "packageManager": "yarn@3.6.0"
 }
