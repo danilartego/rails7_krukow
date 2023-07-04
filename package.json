@@ -2,11 +2,11 @@
   "name": "app",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "@rails/ujs": "^7.0.5-1",
+    "@rails/ujs": "^7.0.4",
     "autoprefixer": "^10.4.14",
     "bootstrap": "^5.3.0",
     "bootstrap-icons": "^1.10.5",
-    "esbuild": "0.18.10",
+    "esbuild": "0.15.18",
     "nodemon": "^2.0.22",
     "postcss": "^8.4.24",
     "postcss-cli": "^10.1.0",

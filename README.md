@@ -7,7 +7,7 @@
 * -T изключить тесты
 * -j esbuild выбор метода сборки javascript
 * -css bootstrap обработка стилей css
-* ---skip-hotwire не использовать hotwire
+* --skip-hotwire не использовать hotwire
 ```
 rails new name_app -T -j esbuild --css bootstrap --skip-hotwire
 ```
